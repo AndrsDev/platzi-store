@@ -12,10 +12,6 @@
     "test:watch": "jest --watch",
     "test:update": "jest --updateSnapshot"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gndx/platzi-store.git"
-  },
   "keywords": [
     "React",
     "Webpack",
@@ -66,10 +62,6 @@
     "react-test-renderer": "^17.0.1",
     "webpack-dev-server": "^3.9.0"
   },
-  "bugs": {
-    "url": "https://github.com/gndx/platzi-store/issues"
-  },
-  "homepage": ".",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [
